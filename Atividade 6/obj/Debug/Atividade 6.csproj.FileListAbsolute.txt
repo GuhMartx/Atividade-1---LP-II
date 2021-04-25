@@ -1,0 +1,14 @@
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\bin\Debug\Atividade 6.exe.config
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\bin\Debug\Atividade 6.exe
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\bin\Debug\Atividade 6.pdb
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csprojAssemblyReference.cache
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade_6.frmPrincipal.resources
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade_6.frmExercício2.resources
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade_6.frmExercício3.resources
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade_6.Properties.Resources.resources
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csproj.GenerateResource.cache
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade 6.exe
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade 6.pdb
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade_6.frmExercício4.resources
+C:\Users\Gustavo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade_6.frmExercício5.resources
