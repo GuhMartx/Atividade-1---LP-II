@@ -1,0 +1,14 @@
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\bin\Debug\Atividade 6.exe.config
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\bin\Debug\Atividade 6.exe
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\bin\Debug\Atividade 6.pdb
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csprojAssemblyReference.cache
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade_6.Form1.resources
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade_6.FrmExercicio1.resources
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade_6.Properties.Resources.resources
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csproj.GenerateResource.cache
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade 6.csproj.CoreCompileInputs.cache
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade 6.exe
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade 6.pdb
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade_6.FrmExercicio2.resources
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade_6.FrmExercicio3.resources
+C:\Users\kanjo\source\repos\Atividade 6\Atividade 6\obj\Debug\Atividade_6.FrmExercicio4.resources
